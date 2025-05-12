@@ -13,9 +13,9 @@ The dashbaord was built using the following tools and technologies:
 ✔ Data Modeling _ To craete Relationship between tables
 ✔ File Format _ pbix for development and .png for dashboard previews.
 
- 4. Features/Highlights
 
-◾ Business problem
+ 5. Features/Highlights
+ ◾ Business problem
 The business problem is low profit margins despite high sales, indicating inefficiencies in operations, pricing, or cost management.
 
 KPI'S:
