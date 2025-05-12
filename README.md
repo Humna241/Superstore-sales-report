@@ -34,36 +34,36 @@ Avg. Delivery Time: 4 days
 - **Sales by Segment**(doughnut Chart)
 Consumer (48%) dominates sales while Corporate (32.55%) and Home Office (19.35%) follow.
 
-🔁 Recommendation: Tailor marketing or bundle offers toward Consumer segment to increase conversion or loyalty.
+🔁 **Recommendation:** Tailor marketing or bundle offers toward Consumer segment to increase conversion or loyalty.
 
-- Sales by Top Categories(Bar Chart)
+- **Sales by Top Categories**(Bar Chart)
 These three categories Phones (197K), Chairs (182K), Binders (175K) lead sales.
-🔁 Recommendation: Expand product line, run promotions, or focus ad budget here.
+🔁 **Recommendation:** Expand product line, run promotions, or focus ad budget here.
 
-- Sales by Category(Bar Chart)
+- **Sales by Category**(Bar Chart)
 Office Supplies (644K) leads, followed by Technology (471K) and Furniture (452K).Office Supplies are volume drivers.
 
-🔁 Recommendation: Explore upselling higher-margin items in Office Supplies.
+🔁 **Recommendation:** Explore upselling higher-margin items in Office Supplies.
 
-- Sales by Payment mode(doughnut Chart)
+- **Sales by Payment mode**(doughnut Chart)
 Most use Cash on Delivery (42.62%), then Online (35.38%), and Cards (21.99%).COD still dominates—may signal trust or convenience factor.
 
-🔁 Recommendation: Offer incentives (e.g., discount) for Online/Card payments to improve cash flow.
+🔁 **Recommendation:** Offer incentives (e.g., discount) for Online/Card payments to improve cash flow.
 
-- Sales Trends (YOY - Monthly Profit & Sales)
+- **Sales Trends** (YOY - Monthly Profit & Sales)
 Noticeable seasonal spikes around June and November/December. Clear peak periods—possible holiday or fiscal-year-end impacts.
 
-🔁 Recommendation: Prepare inventory and marketing pushes in advance for those months.
+🔁 **Recommendation:** Prepare inventory and marketing pushes in advance for those months.
 
-- Sales by ship mode (Bar Chart)
+- **Sales by ship mode** (Bar Chart)
 Standard Class (912.4K) is most used.Same Day (lowest) is barely used.Customers prioritize cost over speed.
 
-🔁 Recommendation: Consider if fast shipping is worth maintaining—could be a cost-saving opportunity.
+🔁 **Recommendation:** Consider if fast shipping is worth maintaining—could be a cost-saving opportunity.
 
-- Sales & Profit by State (Map)
+- **Sales & Profit by State** (Map)
 States with larger blue circles are top performer. Some regions outperform others significantly.
 
-🔁 Recommendation: Investigate high-performing states for what’s working (products, reps, strategy) and replicate it.
+🔁 **Recommendation:** Investigate high-performing states for what’s working (products, reps, strategy) and replicate it.
 
 
 ## 5. Summary/Business Story
