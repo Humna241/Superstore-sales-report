@@ -1,11 +1,11 @@
 # Superstore-sales-report
-1. Sales Analytics: Superstore Sales Dashboard
+## 1. Sales Analytics: Superstore Sales Dashboard
 A dynamic, Interactive data visualization tool to explore superstore report data focusing on total sales, profit, category and sub-category attributes and Year over year(YOY) growth.
 
-2. Purpose:
+## 2. Purpose:
 This Dashboard is a visually engaging and anlytical power BI report designed to provide a clear overview of sales, profit, and customer trends.It helps identify top-performing products, regions, and customer segments.It supports business decisions by showing sales patterns and delivery insights.The goal is to improve profit, plan better, and grow sales efficiently.
 
-3. Tech Stack
+## 3. Tech Stack
 The dashbaord was built using the following tools and technologies:
 ✔ Power BI Desktop _ Main data visualization tool for report Creation.
 ✔ Powr Query _ Data Transformation and cleaning layer for reshaping and preparing the data.
@@ -14,7 +14,7 @@ The dashbaord was built using the following tools and technologies:
 ✔ File Format _ pbix for development and .png for dashboard previews.
 
 
- 5. Features/Highlights
+## 4. Features/Highlights
  ◾ Business problem
 The business problem is low profit margins despite high sales, indicating inefficiencies in operations, pricing, or cost management.
 
@@ -66,7 +66,7 @@ States with larger blue circles are top performer. Some regions outperform other
 🔁 Recommendation: Investigate high-performing states for what’s working (products, reps, strategy) and replicate it.
 
 
- 5. Summary/Business Story
+## 5. Summary/Business Story
 We’re making good money from office supplies and have lots of customers, but we’re not keeping much profit. Many people still pay with cash when their orders arrive. If we can get more people to pay online or with cards, we’ll get money faster and avoid delays. Some states are doing much better in sales than others. We should look at what’s working there and try it in other places too. By focusing on our best-selling products and getting ready for busy shopping months, we can grow our business and earn more.
 
 
