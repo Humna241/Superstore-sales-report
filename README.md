@@ -7,18 +7,18 @@ This Dashboard is a visually engaging and anlytical power BI report designed to 
 
 ## 3. Tech Stack
 The dashbaord was built using the following tools and technologies:
-✔ Power BI Desktop _ Main data visualization tool for report Creation.
-✔ Powr Query _ Data Transformation and cleaning layer for reshaping and preparing the data.
-✔ DAX(Data Analysis Expressions) _ Used for calculated measures, dynamic visuals and conditional logic.
-✔ Data Modeling _ To craete Relationship between tables
-✔ File Format _ pbix for development and .png for dashboard previews.
+✔ **Power BI Desktop** _ Main data visualization tool for report Creation.
+✔ **Power Query** _ Data Transformation and cleaning layer for reshaping and preparing the data.
+✔ **DAX(Data Analysis Expressions)** _ Used for calculated measures, dynamic visuals and conditional logic.
+✔ **Data Modeling** _ To craete Relationship between tables
+✔ **File Format** _ pbix for development and .png for dashboard previews.
 
 
 ## 4. Features/Highlights
- ◾ Business problem
+ ◾ **Business problem**
 The business problem is low profit margins despite high sales, indicating inefficiencies in operations, pricing, or cost management.
 
-KPI'S:
+**KPI'S:**
 Sales: 1.6M
 
 Profit: 175K
@@ -27,11 +27,11 @@ Quantity: 22K
 
 Avg. Delivery Time: 4 days
 
-✅ Insight: You’re generating high revenue but a relatively low profit margin (~11%).
+✅ **Insight:** You’re generating high revenue but a relatively low profit margin (~11%).
 
-🔁 Recommendation: Investigate high-cost or low-margin products.
+🔁 **Recommendation:** Investigate high-cost or low-margin products.
 
-- Sales by Segment(doughnut Chart)
+- **Sales by Segment**(doughnut Chart)
 Consumer (48%) dominates sales while Corporate (32.55%) and Home Office (19.35%) follow.
 
 🔁 Recommendation: Tailor marketing or bundle offers toward Consumer segment to increase conversion or loyalty.
