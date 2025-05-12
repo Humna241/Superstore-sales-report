@@ -13,7 +13,7 @@ The dashbaord was built using the following tools and technologies:
 ✔ Data Modeling _ To craete Relationship between tables
 ✔ File Format _ pbix for development and .png for dashboard previews.
 
-4.Features/Highlights
+ 4.Features/Highlights
 
 ◾ Business problem
 The business problem is low profit margins despite high sales, indicating inefficiencies in operations, pricing, or cost management.
@@ -59,7 +59,7 @@ States with larger blue circles are top performer. Some regions outperform other
 🔁 Recommendation: Investigate high-performing states for what’s working (products, reps, strategy) and replicate it.
 
 
-5. Summary/Business Story
+ 5. Summary/Business Story
 We’re making good money from office supplies and have lots of customers, but we’re not keeping much profit. Many people still pay with cash when their orders arrive. If we can get more people to pay online or with cards, we’ll get money faster and avoid delays. Some states are doing much better in sales than others. We should look at what’s working there and try it in other places too. By focusing on our best-selling products and getting ready for busy shopping months, we can grow our business and earn more.
 
 
