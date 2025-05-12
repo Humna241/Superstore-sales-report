@@ -70,4 +70,4 @@ States with larger blue circles are top performer. Some regions outperform other
 We’re making good money from office supplies and have lots of customers, but we’re not keeping much profit. Many people still pay with cash when their orders arrive. If we can get more people to pay online or with cards, we’ll get money faster and avoid delays. Some states are doing much better in sales than others. We should look at what’s working there and try it in other places too. By focusing on our best-selling products and getting ready for busy shopping months, we can grow our business and earn more.
 
 
-[Dashboard Preview].(https://github.com/Humna241/Superstore-sales-report/blob/main/Sales%20report.PNG)
+<https://github.com/Humna241/Superstore-sales-report/blob/main/Sales%20report.PNG>
