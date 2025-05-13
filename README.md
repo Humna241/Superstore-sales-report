@@ -8,10 +8,15 @@ This Dashboard is a visually engaging and anlytical power BI report designed to 
 ## 3. Tech Stack
 The dashbaord was built using the following tools and technologies:
 ✔ **Power BI Desktop** _ Main data visualization tool for report Creation.
+
 ✔ **Power Query** _ Data Transformation and cleaning layer for reshaping and preparing the data.
+
 ✔ **DAX(Data Analysis Expressions)** _ Used for calculated measures, dynamic visuals and conditional logic.
-✔ **Data Modeling** _ To craete Relationship between tables
+
+✔ **Data Modeling** _ To craete Relationship between tables.
+
 ✔ **File Format** _ pbix for development and .png for dashboard previews.
+
 
 
 ## 4. Features/Highlights
